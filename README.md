@@ -1,3 +1,8 @@
+*(Completed in September 2021)*
+</br>
+</br>
+
+
 # Description of the task
 
 A Telco company has a churn challenge. 
